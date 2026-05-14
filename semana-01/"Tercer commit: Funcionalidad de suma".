@@ -1,0 +1,3 @@
+  Escribir "Ingrese num1 y num2:"   
+Leer num1, num2    resultado <- num1 + num2  
+Escribir "Suma: ", resultado
